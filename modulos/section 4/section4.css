@@ -1,0 +1,91 @@
+.Seccion4{
+    padding: 48px 24px;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.texto7 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #486284;
+
+    width: 342px;
+    height: 24px;
+}
+
+.texto8 {
+    font-size: 32px;
+    color: #486284;
+    font-family: 'Roboto'; 
+
+    width: 612px;
+    height: 40px;
+
+    line-height: 40px;
+
+    letter-spacing: 0.5px;
+
+
+}
+
+.description4 {
+    font-family: 'Roboto';
+    font-size: 16px;
+    color: #8CA2C0;
+
+    width: 342px;
+    height: 120px;
+
+    line-height: 24px;
+    letter-spacing: 0.5px;
+
+    
+}
+
+.imagen3{
+    width: 342px;
+    height: 256px;
+    display: block;
+    padding: 10%;
+    gap: 10px;
+    margin: 0 auto;
+}
+    
+.btn6{
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 100px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+
+    background-color: rgb( 18, 18, 18);
+}
+
+.btn7{
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 100px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #3486ac;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px; 
+}
+

@@ -1,0 +1,96 @@
+.Seccion3 {
+    padding: 48px 24px;
+    
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.texto5 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    color: #486284;
+
+    width: 342px;
+    height: 24px; 
+}
+
+.texto6 {
+    font-size: 24px;
+    font-family: Roboto;
+    color: #486284;
+    line-height: 40px;
+}
+
+.description3 {
+    font-size: 16px;
+    font-family: roboto;
+    color: #8CA2C0;
+    font-size: 16px;
+    width: 342px;
+    height: 120px;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn4 {
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 200px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+
+    background-color: rgb(18, 18, 51);
+}
+
+.btn5{
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 100px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #3486ac;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px; 
+}
+
+
+.tru2{
+    color: #3486ac;
+    font-family: Roboto;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    width: 100%; 
+    font-size: 0 21px;
+}
+
+.logoG{
+    height: 29.31px;
+    width: 89.47px;
+}
+
+.logoY{
+    width: 81.45px;
+    height: 18.22px;
+}
+
+.logoF{ 
+    width: 100.66px;
+    height: 23.11px;
+}

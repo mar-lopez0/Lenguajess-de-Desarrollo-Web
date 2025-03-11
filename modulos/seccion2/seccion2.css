@@ -1,0 +1,103 @@
+.seccion2 {
+    padding: 48 24px;
+    padding-top: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    
+
+}
+
+.Tetxo3 {
+    font-family: Roboto;
+    font-size: 16px;
+    color: #486284;
+
+}
+
+.Texto4 {
+    font-size: 24px;
+    font-family: Roboto;
+    color: #486284;
+}
+
+.descripcion2 {
+    font-size: 16px;
+    font-family: Roboto;
+    color: #8CA2C0;
+    
+
+}
+
+.btn2 {
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 200px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #ffffff;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px;
+
+    background-color: rgb(18, 18, 51);
+}
+
+.btn3 {
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 100px;
+    padding: 20px;
+    margin-top: 30px;
+    height: 50px;
+
+    font-size: 16px;
+    color: #3486ac;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 24px; 
+
+}
+
+.tru1 { 
+    color: #3486ac;
+    font-family: Roboto;
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    width: 100%; 
+    font-size: 0 24px;  
+
+}
+
+.logo1{
+    width: 89.47px;
+    height: 29.31px;
+}
+
+.logo2{
+    width: 81.45px;
+    height: 18.22px;
+}
+
+.logo3{
+    width: 100.66px;
+    height: 23.11px;
+}
+
+.imagen2 {
+    width: 342px;
+    height: 256px;
+    display: block;
+    padding: 10%;
+    gap: 10px;
+    margin: 0 auto;
+
+}
